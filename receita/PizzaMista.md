@@ -1,4 +1,4 @@
 # ***Pizza Mista***
-![imagem da pizza](../imagens/pizzamista.jpg)
+![imagem da pizza](../imagens/pizzamista1.jpeg)
 
 
